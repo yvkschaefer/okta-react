@@ -1,14 +1,13 @@
-## TO RUN
+# Installation Instructions
 
-git clone
-cd okta-hosted-login
+git clone<br/>
+cd okta-hosted-login<br/>
 npm i && npm start
 
-all the credentials should be in the start script
+## available users:<br/>
 
-available users:
-test@inpixon.com
-Qwerty12
+test@inpixon.com <br/>
+Qwerty12<br/>
 
-testreact@inpixon.com
-Qwerty12
+testreact@inpixon.com <br/>
+Qwerty12<br/>
