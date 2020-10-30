@@ -16,7 +16,7 @@
     "text-encoding": "^0.7.0"
   },
   "scripts": {
-    "start": "cross-env PORT=8080 react-app-rewired start",
+    "start": "export ISSUER='https://dev-414194.okta.com/' && export CLIENT_ID='0oa1am45u1RFoX3jT4x7' && cross-env PORT=2000 react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "echo 'Tests not yet implemented' && exit 1",
     "eject": "react-scripts eject"
