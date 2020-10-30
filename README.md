@@ -4,7 +4,7 @@ git clone<br/>
 cd okta-hosted-login<br/>
 npm i && npm start
 
-## available users:<br/>
+## Available Users:<br/>
 
 test@inpixon.com <br/>
 Qwerty12<br/>
